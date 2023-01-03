@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\bin\Debug\csharp yorum satırı ve hello world yazdırma.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\bin\Debug\csharp yorum satırı ve hello world yazdırma.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\bin\Debug\csharp yorum satırı ve hello world yazdırma.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\obj\Debug\csharp yorum satırı ve hello world yazdırma.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\obj\Debug\csharp yorum satırı ve hello world yazdırma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\obj\Debug\csharp yorum satırı ve hello world yazdırma.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\obj\Debug\csharp yorum satırı ve hello world yazdırma.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp yorum satırı ve hello world yazdırma\csharp yorum satırı ve hello world yazdırma\obj\Debug\csharp yorum satırı ve hello world yazdırma.pdb
